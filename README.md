@@ -1,9 +1,9 @@
-# Solving TSP using Genetic Algorithm - Sabry's Diary Case Study
+# Solving TSP using Genetic Algorithm - Sabry's Dialy Case Study
 ## Introduction
-#### This project aims to solve the Traveling Salesman Problem (TSP) using a Genetic Algorithm. The TSP involves finding the shortest possible route that visits a set of locations (in this case, Egyptian governorates) and returns to the starting location. We'll apply this algorithm to help Sabry's Diary, an Egyptian YouTuber, find the closest road between Egyptian governorates for his journey.
+#### This project aims to solve the Traveling Salesman Problem (TSP) using a Genetic Algorithm. The TSP involves finding the shortest possible route that visits a set of locations (in this case, Egyptian governorates) and returns to the starting location. We'll apply this algorithm to help Sabry's Dialy, an Egyptian YouTuber, find the closest road between Egyptian governorates for his journey.
 
 # Case Study Background
-#### Sabry's Diary embarked on a journey to visit all the governorates of Egypt. However, due to a business trip abroad after reaching governorate 19, he needed to find the quickest route to complete his journey efficiently. He contacted us via LinkedIn, and we took on the challenge to optimize his route.
+#### Sabry's Dialy embarked on a journey to visit all the governorates of Egypt. However, due to a business trip abroad after reaching governorate 19, he needed to find the quickest route to complete his journey efficiently. He contacted us via LinkedIn, and we took on the challenge to optimize his route.
 
 ![daal](https://github.com/AhemdMahmoud/Play-with-web-scraping/assets/109467491/7a0b07c5-21ca-4916-ab54-148f5f8d88bd)
 
