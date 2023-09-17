@@ -16,7 +16,7 @@
 
 Clone the Repository:
 ~~~
-git clone https://github.com/your-username/solving-tsp-genetic-algorithm.git
+git clone https://github.com/AhemdMahmoud/Solving_TSP_using_GA.git
 ~~~
 Install Dependencies: Make sure you have the necessary dependencies installed. You might need Python and relevant libraries for this project.
 
